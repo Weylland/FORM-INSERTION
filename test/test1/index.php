@@ -7,7 +7,7 @@
     <title>Form</title>
 </head>
 <body>
-    <form method="POST" action="insertintesttarget.php">
+    <form method="POST" action="target.php">
         <p>
             <label for="nom">Entrez votre nom : </label>
             <input type="text" name="nom" id="nom">
